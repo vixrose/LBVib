@@ -1,9 +1,9 @@
 Package: com.vixrose.lbvib
 Name: LBVib
 Depends: mobilesubstrate
-Version: 0.0.3
+Version: 0.1.0
 Architecture: iphoneos-arm
-Description: Vibrate on low battery. New in 0.0.3: Will no longer vibrate while charging.
+Description: Vibrate on low battery. New in 0.1.0: Create up to 2 custom alert percentages in preferences!
 Maintainer: Vix Rose
 Author: Vix Rose
 Section: Tweaks

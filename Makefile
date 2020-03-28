@@ -13,3 +13,5 @@ LBVib_CFLAGS = -fobjc-arc
 LBVib_FRAMEWORKS = UIKit AudioToolbox
 
 include $(THEOS_MAKE_PATH)/tweak.mk
+SUBPROJECTS += lbvib
+include $(THEOS_MAKE_PATH)/aggregate.mk
